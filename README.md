@@ -2,9 +2,8 @@
 
 Una calculadora moderna para Android con una interfaz de usuario mejorada y funcionalidades básicas.
 
-<p>
-<img src="C:\Users\Usuario\Pictures\TECNOLOGÍA Y  COMPUTACIÓN\screen1 (2).jpg" alt="Pantalla Principal" width="400" height="400"/></td>
-</p>
+![Uploading screen1 (2).jpg…]()
+
 ## ✨ Características
 
 - 🎨 Interfaz gráfica moderna con fondo plomo verdoso oscuro
