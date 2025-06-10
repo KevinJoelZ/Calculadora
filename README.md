@@ -2,8 +2,8 @@
 
 Una calculadora moderna para Android con una interfaz de usuario mejorada y funcionalidades básicas.
 
-![screen1 (2)](https://github.com/user-attachments/assets/4b41bf7d-2e11-4837-af48-8f575ecfe821)
 
+<img src="C:\Users\Usuario\Pictures\TECNOLOGÍA Y  COMPUTACIÓN\screen1 (2).jpg" alt="Pantalla Principal" width="400" height="400"/></td>
 
 ## ✨ Características
 
