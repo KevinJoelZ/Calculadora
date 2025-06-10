@@ -2,7 +2,8 @@
 
 Una calculadora moderna para Android con una interfaz de usuario mejorada y funcionalidades básicas.
 
-![Calculadora Android](https://raw.githubusercontent.com/tu-usuario/Calculadora/main/screenshots/preview.png)
+![screen1 (2)](https://github.com/user-attachments/assets/4b41bf7d-2e11-4837-af48-8f575ecfe821)
+
 
 ## ✨ Características
 
