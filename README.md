@@ -2,7 +2,7 @@
 
 Una calculadora moderna para Android con una interfaz de usuario mejorada y funcionalidades básicas.
 
-![screen1 (2)](https://github.com/user-attachments/assets/4b41bf7d-2e11-4837-af48-8f575ecfe821)
+![Calculadora Android](https://github.com/user-attachments/assets/490b9ec8-fc72-4d18-a406-813194876d72)
 
 
 ## ✨ Características
@@ -53,7 +53,7 @@ El proyecto está organizado siguiendo las mejores prácticas de desarrollo Andr
 
 <table>
   <tr>
-    <td><img src="screenshots/screen1.jpg" alt="Pantalla Principal" width="530" height="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/490b9ec8-fc72-4d18-a406-813194876d72" alt="Pantalla Principal" width="700" height="400"/></td>
     <td><img src="screenshots/screen2.jpg" alt="Operación en Proceso" width="200"/></td>
     <td><img src="screenshots/screen3.jpg" alt="Resultado" width="200"/></td>
   </tr>
