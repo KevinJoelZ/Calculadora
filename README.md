@@ -53,7 +53,7 @@ El proyecto está organizado siguiendo las mejores prácticas de desarrollo Andr
 
 <table>
   <tr>
-    <td><img src="screenshots/screen1.jpg" alt="Pantalla Principal" width="300"/></td>
+    <td><img src="screenshots/screen1.jpg" alt="Pantalla Principal" width="300" height="400"/></td>
     <td><img src="screenshots/screen2.jpg" alt="Operación en Proceso" width="200"/></td>
     <td><img src="screenshots/screen3.jpg" alt="Resultado" width="200"/></td>
   </tr>
