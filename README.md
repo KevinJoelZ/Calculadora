@@ -2,7 +2,8 @@
 
 Una calculadora moderna para Android con una interfaz de usuario mejorada y funcionalidades básicas.
 
-![Calculadora Android](https://raw.githubusercontent.com/tu-usuario/Calculadora/main/screenshots/preview.png)
+![screen1 (2)](https://github.com/user-attachments/assets/4b41bf7d-2e11-4837-af48-8f575ecfe821)
+
 
 ## ✨ Características
 
@@ -16,7 +17,6 @@ Una calculadora moderna para Android con una interfaz de usuario mejorada y func
 - ⚠️ Manejo de errores (división por cero)
 - 💬 Resultados mostrados en diálogos
 - 📱 Diseño responsivo
-- 🔢 Soporte para números decimales
 
 ## 📋 Requisitos
 
@@ -72,7 +72,3 @@ Las contribuciones son bienvenidas! Si encuentras un bug o tienes una sugerencia
 3. 📝 Realiza tus cambios
 4. 🔃 Haz push a la rama (`git push origin feature/AmazingFeature`)
 5. 📫 Abre un Pull Request
-
-## ⭐ ¡No olvides dejar tu estrella!
-
-Si este proyecto te ha sido útil, considera dejar una estrella para apoyarlo. 
