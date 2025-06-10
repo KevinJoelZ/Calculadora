@@ -53,7 +53,7 @@ El proyecto está organizado siguiendo las mejores prácticas de desarrollo Andr
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/490b9ec8-fc72-4d18-a406-813194876d72" alt="Pantalla Principal" width="700" height="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/490b9ec8-fc72-4d18-a406-813194876d72" alt="Pantalla Principal" width="600" height="400"/></td>
     <td><img src="screenshots/screen2.jpg" alt="Operación en Proceso" width="200"/></td>
     <td><img src="screenshots/screen3.jpg" alt="Resultado" width="200"/></td>
   </tr>
